@@ -1,0 +1,21 @@
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color:crimson;
+}
+
+.maintxt{
+  font-style:italic;
+  font-family:cursive;
+  font-size:18px;
+  background-color:lightblue;
+}
+
+.left{
+  float:left;
+}
+
+.right {
+  float:right;
+
+}
